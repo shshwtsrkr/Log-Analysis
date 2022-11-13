@@ -1,18 +1,18 @@
 # Requirements for the model
 The following packages need to be installed -
-os
-time
-numpy
-logging
-sompy
-multiprocessing
-itertools
-pandas
-re
-gensim
-matplotlib
-scipy
-sklearn
+1. os
+2. time
+3. numpy
+4. logging
+5. sompy
+6. multiprocessing
+7. itertools
+8. pandas
+9. re
+10. gensim
+11. matplotlib
+12. scipy
+13. sklearn
 
 NOTE :-
 
