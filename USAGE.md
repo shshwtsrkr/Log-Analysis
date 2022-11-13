@@ -12,9 +12,9 @@ Open the notebook and click on "Run all".
 # Using the front-end web application
 After cloning the repository & going through REQUIREMENTS.md
 1. For Flask, change directory to "Flask Test" & then run using - 
-    flask run
+    ```flask run```
 2. Inside the cloned repository run -
-    npm install
+    ```npm install```
     
    Then to start the React app, run - 
-    npm start
+    ```npm start```
