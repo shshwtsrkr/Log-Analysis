@@ -19,7 +19,7 @@ NOTE :-
 
 1. All the above packages (except SOMPY) can be installed using ```pip install <package-name>```
 2. SOMPY
-  !pip install git+https://github.com/sevamoo/SOMPY.git
+  ```!pip install git+https://github.com/sevamoo/SOMPY.git```
   (This package seemed to have some problems while installing & importing on local machine, runs well on Google Colab)
 
 
