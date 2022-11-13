@@ -20,4 +20,4 @@ To integrate the model with a frontend web applucation which could generate a lo
 1. We were able to create a front-end web application (in combination with flask) that can provide the following -
     i. An in-depth detailed explanation of the working of the model.
     ii. SMS to the linked phone number using Twilio API.
-2. A NLP model that can detect for anomalies given, a log
+2. A NLP model that can detect for anomalies with a log as an input to the infer() function in the model.
