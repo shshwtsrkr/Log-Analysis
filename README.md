@@ -21,3 +21,10 @@ To integrate the model with a frontend web applucation which could generate a lo
     i. An in-depth detailed explanation of the working of the model.
     ii. SMS to the linked phone number using Twilio API.
 2. A NLP model that can detect for anomalies with a log as an input to the infer() function in the model.
+
+# Contributors
+1. [Arnab Kumar Roy](https://github.com/ArnabKumarRoy02)
+2. [Bishal Chettri](https://github.com/bistimulus)
+3. [Md. Monirul Islam](https://github.com/sleepy-coder-101)
+4. [Rinchen Tempa Bhutia](https://github.com/rinchentb26)
+5. [Shashwat Sarkar](https://github.com/shshwtsrkr)
