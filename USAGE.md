@@ -1,8 +1,8 @@
 # Reference Material
-Some good research papers on this topic can be referred to using this [link](https://drive.google.com/drive/folders/1JzQ7kUCgwe1pqnqD00JPZhNe8qKM2TI8)
-Some good video Links -
-1. [Link 1](https://www.youtube.com/watch?v=MpYB4Qcl570)
-2. [Link 2](https://www.youtube.com/watch?v=OBHtu285aqE)
+1. Some good research papers on this topic can be referred to using this [link](https://drive.google.com/drive/folders/1JzQ7kUCgwe1pqnqD00JPZhNe8qKM2TI8)
+2. Some good video Links -
+    i. [Link 1](https://www.youtube.com/watch?v=MpYB4Qcl570)
+    ii. [Link 2](https://www.youtube.com/watch?v=OBHtu285aqE)
 
 # Cloning the Repository
 Clone the repository using - 
